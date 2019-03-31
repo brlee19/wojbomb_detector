@@ -9,6 +9,7 @@ pylint = "*"
 [packages]
 slackclient = "*"
 flask = "*"
+tweepy = "*"
 
 [requires]
 python_version = "3.6"
