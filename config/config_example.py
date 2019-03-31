@@ -1,0 +1,2 @@
+OAuth_Token = "INSERT_TOKEN_HERE",
+Bot_Token: "INSERT_TOKEN_HERE"
